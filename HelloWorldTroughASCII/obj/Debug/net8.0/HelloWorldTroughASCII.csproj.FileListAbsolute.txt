@@ -1,0 +1,28 @@
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/bin/Debug/net8.0/HelloWorldTroughASCII
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/bin/Debug/net8.0/HelloWorldTroughASCII.deps.json
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/bin/Debug/net8.0/HelloWorldTroughASCII.runtimeconfig.json
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/bin/Debug/net8.0/HelloWorldTroughASCII.dll
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/bin/Debug/net8.0/HelloWorldTroughASCII.pdb
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.AssemblyInfoInputs.cache
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.AssemblyInfo.cs
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.csproj.CoreCompileInputs.cache
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.dll
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/obj/Debug/net8.0/refint/HelloWorldTroughASCII.dll
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.pdb
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.genruntimeconfig.cache
+/Users/avachkov/RiderProjects/HelloWorldTroughASCII/HelloWorldTroughASCII/obj/Debug/net8.0/ref/HelloWorldTroughASCII.dll
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/bin/Debug/net8.0/HelloWorldTroughASCII
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/bin/Debug/net8.0/HelloWorldTroughASCII.deps.json
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/bin/Debug/net8.0/HelloWorldTroughASCII.runtimeconfig.json
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/bin/Debug/net8.0/HelloWorldTroughASCII.dll
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/bin/Debug/net8.0/HelloWorldTroughASCII.pdb
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.AssemblyInfoInputs.cache
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.AssemblyInfo.cs
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.csproj.CoreCompileInputs.cache
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.dll
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/obj/Debug/net8.0/refint/HelloWorldTroughASCII.dll
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.pdb
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/obj/Debug/net8.0/HelloWorldTroughASCII.genruntimeconfig.cache
+/Users/avachkov/RiderProjects/ASCII Printer/HelloWorldTroughASCII/obj/Debug/net8.0/ref/HelloWorldTroughASCII.dll
