@@ -17,4 +17,4 @@ Fun C# Console app that prints a user message by looping through ASCII codes for
 3. Run the compiled `.exe`
    Once in the root folder, go to: ``ASCIIPrinter/HelloWorldTroughASCII/bin/Debug/net8.0/HelloWorldTroughASCII.exe``
 
-4. Follow the program flow
+5. Follow the program flow
